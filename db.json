@@ -18,14 +18,14 @@
          "ribbon":"promo",
          "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
       },
-      {
-         "type":"deal",
+       {
+         "type":"shop",
          "id":8,
-         "name":"Test Deals",
-         "description":"this has deals",
+         "name":"Test Shops",
+         "description":"this has shops",
          "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
+         "ribbon":null,
+         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
       },
       {
          "type":"deal",
@@ -35,150 +35,6 @@
          "url":"deeplink_to_this_collection",
          "ribbon":"promo",
          "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },{
-         "type":"deal",
-         "id":10,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":11,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":12,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":13,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":14,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":15,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":16,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":17,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":18,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":19,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":20,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":21,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":22,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":23,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":24,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":25,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
       }
-   
    ]
 }
