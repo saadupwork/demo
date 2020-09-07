@@ -178,51 +178,7 @@
          "url":"deeplink_to_this_collection",
          "ribbon":"promo",
          "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":6,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":6,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":6,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":6,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
-      },
-      {
-         "type":"deal",
-         "id":6,
-         "name":"Test Deals",
-         "description":"this has deals",
-         "url":"deeplink_to_this_collection",
-         "ribbon":"promo",
-         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
       }
+   
    ]
 }
