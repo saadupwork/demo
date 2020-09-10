@@ -1,34 +1,41 @@
 {
-	"assortment_details": {
-		"id": 7,
-		"name": "Test Shops",
-		"description": "this has shops",
-		"promo_code_description": "RM21 cashback for Beauty, Shopping Mall and Travel",
-		"promo_code": "assortment_outlets",
-		"feature_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg",
-		"promo_tnc_url": "promo_tnc_url",
-		"share": {
-			"url": "https://qa-staging.platform.fave.ninja/share/hTuaifYpV2f24n9zIF4v",
-			"description": "Hey, I thought you would like this offer. You should check it out!  "
-		},
-		"assortment_types": ["deals"]
-	},
-	"deals": [{
-		"id": 61830,
-		"logo": "https://fave-staging-fnb.app.fave.ninja/attachments/f510805e57948f30272ec2b50b5c50a2328a5a97/store/fill/800/500/bb3bad45a798ef3bdc608a5763170499359820737a2e96a5943852b104e5/file.jpg",
-		"discount_percentage": 99,
-		"name": "timeslot check 1",
-		"description": "ok",
-		"address": "L1-23/24, Cheras Leisure Mall, Jalan Manis 2, Taman Segar, 56100 Cheras, Kuala Lumpur",
-		"distance": "23.8 km",
-		"rating": 4.4,
-		"discounted_price": "RM10",
-		"original_price": "RM1,000",
-		"company": {
-			"id": 1745,
-			"name": "Kenny Rogers ROASTERS",
-			"rating": 0.0,
-			"tags_label": "Cafe, Western"
-		}
-	}]
+   "assortments":[
+      {
+         "type":"shop",
+         "id":7,
+         "name":"Test Shops",
+         "description":"this has shops",
+         "url":"deeplink_to_this_collection",
+         "ribbon":null,
+         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
+      },
+      {
+         "type":"deal",
+         "id":6,
+         "name":"Test Deals",
+         "description":"this has deals",
+         "url":"deeplink_to_this_collection",
+         "ribbon":"promo",
+         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
+      },
+	{
+         "type":"deal",
+         "id":5,
+         "name":"Test Deals",
+         "description":"this has deals",
+         "url":"deeplink_to_this_collection",
+         "ribbon":"promo",
+         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
+      },
+	   
+	{
+         "type":"deal",
+         "id":4,
+         "name":"Test Deals",
+         "description":"this has deals",
+         "url":"deeplink_to_this_collection",
+         "ribbon":"promo",
+         "banner_img":"https://fave-staging-fnb.app.fave.ninja/attachments/4fca8ef45c152111c0f59d4efd7f7f964cb7defa/store/fill/800/400/bf58d50e68c19ac59e7c22c8d767e8c65bf6d6bf6053b3719c0b279ee432/web_image.jpg"
+      }
+   ]
 }
