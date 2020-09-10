@@ -44,6 +44,40 @@
 				"rating": 0.0,
 				"tags_label": "Chain Restaurant, Cuisine, Western"
 			}
+		},
+		    
+		{
+			"id": 829,
+			"logo": "https://fave-staging-fnb.app.fave.ninja/attachments/96f38f77716141e9b6f00117d86546a4f0a8460e/store/8e92163fa4539bebac982cf4ec281f80c85d43bf39fbdeaf217866a9dc3e/Eagle+Activity.jpg",
+			"name": "The Zen Spas",
+			"address": "L1-23/24, Cheras Leisure Mall, Jalan Manis 2, Taman Segar, 56100 Cheras, Kuala Lumpur",
+			"distance": "23.8 km",
+			"cashback_rate": 10,
+			"price_range": "RM10-20",
+			"user_cashback": "RM10.30",
+			"company": {
+				"id": 1745,
+				"name": "Kenny Rogers ROASTERS",
+				"rating": 0.0,
+				"tags_label": "Chain Restaurant, Cuisine, Western"
+			}
+		},
+		    
+		{
+			"id": 830,
+			"logo": "https://fave-staging-fnb.app.fave.ninja/attachments/96f38f77716141e9b6f00117d86546a4f0a8460e/store/8e92163fa4539bebac982cf4ec281f80c85d43bf39fbdeaf217866a9dc3e/Eagle+Activity.jpg",
+			"name": "The Zen Spas",
+			"address": "L1-23/24, Cheras Leisure Mall, Jalan Manis 2, Taman Segar, 56100 Cheras, Kuala Lumpur",
+			"distance": "23.8 km",
+			"cashback_rate": 10,
+			"price_range": "RM10-20",
+			"user_cashback": "RM10.30",
+			"company": {
+				"id": 1745,
+				"name": "Kenny Rogers ROASTERS",
+				"rating": 0.0,
+				"tags_label": "Chain Restaurant, Cuisine, Western"
+			}
 		}
 	]
 }
