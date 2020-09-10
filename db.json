@@ -13,8 +13,6 @@
 		},
 		"assortment_types": ["outlets"]
 	},
-
-
 	"outlets": [{
 			"id": 826,
 			"logo": "https://fave-staging-fnb.app.fave.ninja/attachments/96f38f77716141e9b6f00117d86546a4f0a8460e/store/8e92163fa4539bebac982cf4ec281f80c85d43bf39fbdeaf217866a9dc3e/Eagle+Activity.jpg",
@@ -66,5 +64,4 @@
 			}
 		}
 	]
-
 }
