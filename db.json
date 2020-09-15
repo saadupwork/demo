@@ -188,7 +188,7 @@
          "company":{
             "id":65,
             "name":"Subway",
-            "rating":"0.0",
+            "rating":5.0,
             "description":"The first Fitness First club opened in 1993, in the seaside town of Bournemouth, Dorset – historically known as a popular health resort. Today we have clubs in 16 countries, making us a leader in the global fitness industry. We've seen a lot of change in the fitness industry over the years, but our philosophy has remained the same: to offer the best equipment, range of classes, knowledgeable staff and personal advice in a welcoming environment that feeds our members' motivation.",
             "tags":[
                
