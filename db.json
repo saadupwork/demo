@@ -1,123 +1,234 @@
 {
-	"assortments": [{
-			"id": 7,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Test Shops",
-			"ribbon_label": null,
-			"app_image": "https://fave-staging-fnb.app.fave.ninja/attachments/cde96450d63419b8f18085086ab8ebbb8c8b0c72/store/fill/800/400/88e70cda3e6f7b4f15bc86606d892b93b9f9a3ff93fdaceb954c737c4539/web_image.jpg"
-		}
-	]
+   "outlets":[
+      {
+         "id":17,
+         "name":"West Vito",
+         "address":"41903 Bayer Mall",
+         "gallery_images":[
+            
+         ],
+         "cashback_rate":10,
+         "favepay_count":0,
+         "logo":"/assets/fave-company-logo-placeholder-27ffd882095586baf5eea8392c1802d914ef7a018527678c1ced715e8fec7a58.jpg",
+         "telephone":"161889096",
+         "outlet_has_offers":true,
+         "latitude":3.1379835,
+         "longitude":101.6582551,
+         "share_url":null,
+         "cashback_has_tnc":false,
+         "distance": "23.8 km",
+         "company":{
+            "id":17,
+            "name":"Runolfsdottir-Terry6651",
+            "rating":0.0,
+            "description":"Configurable multimedia conglomeration",
+            "tags":[
+               "Test Cafe"
+            ],
+            "total_outlets":1,
+            "price_range":null,
+            "establishment_list":[
+               
+            ],
+            "cuisine_list":[
+               
+            ],
+            "food_list":[
+               
+            ],
+            "has_company_reviews":false
+         },
+         "outlet_timing":{
+            "open_now":false,
+            "outlet_business_hours":[
+               
+            ]
+         },
+         "collection":[
+            {
+               "id":1,
+               "name":"Test Shops",
+               "ribbon":null,
+               "image_url":null
+            }
+         ]
+      },
+      {
+         "id":9,
+         "name":"North Michaeleport",
+         "address":"71961 Andera Rue",
+         "gallery_images":[
+            
+         ],
+         "cashback_rate":10,
+         "favepay_count":0,
+         "logo":"/assets/fave-company-logo-placeholder-27ffd882095586baf5eea8392c1802d914ef7a018527678c1ced715e8fec7a58.jpg",
+         "telephone":"9450732987 x194",
+         "outlet_has_offers":true,
+         "latitude":3.1379835,
+         "longitude":101.6582551,
+         "share_url":null,
+         "cashback_has_tnc":false,
+         "distance": "23.8 km",
+         "company":{
+            "id":9,
+            "name":"Reichert-Ruecker1954",
+            "rating":4.0,
+            "description":"Adaptive 5th generation portal",
+            "tags":[
+               "Test Cafe"
+            ],
+            "total_outlets":1,
+            "price_range":null,
+            "establishment_list":[
+               
+            ],
+            "cuisine_list":[
+               
+            ],
+            "food_list":[
+               
+            ],
+            "has_company_reviews":false
+         },
+         "outlet_timing":{
+            "open_now":false,
+            "outlet_business_hours":[
+               
+            ]
+         },
+         "collection":[
+            {
+               "id":1,
+               "name":"Test Shops",
+               "ribbon":null,
+               "image_url":null
+            }
+         ]
+      },
+      {
+         "id":50,
+         "name":"MarksLittel",
+         "address":"95476 Lakita Forges, West Marcelluschester, NE 45993",
+         "gallery_images":[
+            
+         ],
+         "cashback_rate":10,
+         "favepay_count":0,
+         "logo":"/attachments/ee84339420e937fefa02fc521eb4e09e2d3acaf4/store/fill/200/200/41d8522fe6f6326c4f95407d4c0213534c3b5d72033ada608ead486240b9/logo.jpg",
+         "telephone":"(794) 704-3962",
+         "outlet_has_offers":true,
+         "latitude":3.1379835,
+         "longitude":101.6582551,
+         "share_url":null,
+         "cashback_has_tnc":true,
+         "distance": "23.8 km",
+         "company":{
+            "id":65,
+            "name":"Subway",
+            "rating":3.0,
+            "description":"The first Fitness First club opened in 1993, in the seaside town of Bournemouth, Dorset – historically known as a popular health resort. Today we have clubs in 16 countries, making us a leader in the global fitness industry. We've seen a lot of change in the fitness industry over the years, but our philosophy has remained the same: to offer the best equipment, range of classes, knowledgeable staff and personal advice in a welcoming environment that feeds our members' motivation.",
+            "tags":[
+               "Test Cafe"
+            ],
+            "total_outlets":2,
+            "price_range":"RM1-10",
+            "establishment_list":[
+               
+            ],
+            "cuisine_list":[
+               
+            ],
+            "food_list":[
+               
+            ],
+            "has_company_reviews":false
+         },
+         "outlet_timing":{
+            "open_now":false,
+            "next_open_hour":"12:00AM",
+            "outlet_business_hours":[
+               {
+                  "day":"sunday",
+                  "is_today":false,
+                  "open":true,
+                  "formatted_time":"12:00AM - 1:00AM",
+                  "hours":[
+                     "12:00AM - 1:00AM"
+                  ]
+               }
+            ]
+         },
+         "collection":[
+            {
+               "id":1,
+               "name":"Test Shops",
+               "ribbon":null,
+               "image_url":null
+            }
+         ]
+      },
+      {
+         "id":49,
+         "name":"GorczanyBarton",
+         "address":"Apt. 399 3471 Marty Extensions, South Taton, NV 62538",
+         "gallery_images":[
+            
+         ],
+         "cashback_rate":10,
+         "favepay_count":0,
+         "logo":"/attachments/ee84339420e937fefa02fc521eb4e09e2d3acaf4/store/fill/200/200/41d8522fe6f6326c4f95407d4c0213534c3b5d72033ada608ead486240b9/logo.jpg",
+         "telephone":"837-992-3469 x1112",
+         "outlet_has_offers":true,
+         "latitude":3.1379835,
+         "longitude":101.6582551,
+         "share_url":null,
+         "cashback_has_tnc":true,
+         "distance": "23.8 km",
+         "company":{
+            "id":65,
+            "name":"Subway",
+            "rating":"0.0",
+            "description":"The first Fitness First club opened in 1993, in the seaside town of Bournemouth, Dorset – historically known as a popular health resort. Today we have clubs in 16 countries, making us a leader in the global fitness industry. We've seen a lot of change in the fitness industry over the years, but our philosophy has remained the same: to offer the best equipment, range of classes, knowledgeable staff and personal advice in a welcoming environment that feeds our members' motivation.",
+            "tags":[
+               
+            ],
+            "total_outlets":2,
+            "price_range":"RM1-10",
+            "establishment_list":[
+               
+            ],
+            "cuisine_list":[
+               
+            ],
+            "food_list":[
+               
+            ],
+            "has_company_reviews":false
+         },
+         "outlet_timing":{
+            "open_now":false,
+            "next_open_hour":"12:00AM",
+            "outlet_business_hours":[
+               {
+                  "day":"sunday",
+                  "is_today":false,
+                  "open":true,
+                  "formatted_time":"12:00AM - 1:00AM",
+                  "hours":[
+                     "12:00AM - 1:00AM"
+                  ]
+               }
+            ]
+         },
+         "collection":[
+            {
+               "id":1,
+               "name":"Test Shops",
+               "ribbon":null,
+               "image_url":null
+            }
+         ]
+      }
+   ]
 }
