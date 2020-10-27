@@ -3,43 +3,53 @@
   "fragments": [
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Eat"
+      "title": "Eat",
+      "deep_link": "1011"
     },
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Beauty"
+      "title": "Beauty",
+      "deep_link": "1011"
     },
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Massage"
+      "title": "Massage",
+            "deep_link": "1011"
     },
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "eCards"
+      "title": "eCards",
+            "deep_link": "1011"
     },
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Activities"
+      "title": "Activities",
+            "deep_link": "1011"
     },
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Retail"
+      "title": "Retail",
+            "deep_link": "1011"
     },
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Service"
+      "title": "Service",
+            "deep_link": "1011"
     },
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Charity"
+      "title": "Charity",
+            "deep_link": "1011"
     },
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Fitness"
+      "title": "Fitness",
+            "deep_link": "1011"
     },
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Travel"
+      "title": "Travel",
+            "deep_link": "1011"
     }
   ]
 }
