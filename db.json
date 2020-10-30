@@ -1,33 +1,4 @@
 {
-  "segment_title" : "Open For Delivery",
-  "announcement" : {
-    "title" : "Tentastic Sale!",
-    "description" : "Up to 90% off sitewide",
-    "deeplink" : "fave://access.kfit.com/open-link?url=https%3A%2F%2Flp.myfave.com%2F10.10-sale",
-    "button_text" : "Learn more"
-  },
-  "segments" : [
-    {
-      "name" : "Eat",
-      "deeplink" : "fave://access.kfit.com/nearby?category=eat",
-      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/2423e2396cc8a220d99e976075c3973505b4d94f/store/e2855a51f2e7c4968e602243136a2297e3659a7bd0b90807db8d6fab2961/icon.png"
-    }
-  ],
-  "component_title" : "Places Open Now",
-  "components" : [
-    {
-      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/8aa141d1792af441843b70c7d9af67af79cc4823/store/9d200f3002b6bc0b9f643c1b6d24f3d1e1f0f586c08c6cdcdd11f0d5a165/icon.png",
-      "alert" : false,
-      "name" : "eCards",
-      "deeplink" : "fave://access.kfit.com/e-cards"
-    },
-    {
-      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/bfaab256e617c303ba9efaf316f78cc60b3163be/store/e5ea912701b2ef73dd7be32f19e3c2c78bb7bc419c63745bdc79c51949ff/icon.png",
-      "alert" : false,
-      "name" : "FavePay",
-      "deeplink" : "fave://access.kfit.com/fave-pay"
-    }
-  ],
   
    "fragments": [
     {
