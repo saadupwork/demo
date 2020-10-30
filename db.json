@@ -1,32 +1,5 @@
 {
   "segment_title" : "Open For Delivery",
-  "banner" : {
-    "ratio" : {
-      "width" : 15,
-      "height" : 7
-    },
-    "contents" : [
-      {
-        "name" : "Banner 6",
-        "deeplink" : "https://www.youtube.com/",
-        "icon_url" : "https://s3-ap-southeast-1.amazonaws.com/staging.myfave.com/uploads/banners/994b9835-3a4b-4432-8c63-ba2d82a3867f.png"
-      }
-    ]
-  },
-  "sections" : [
-    {
-      "content_url" : "https://fave-staging-qa.app.fave.ninja/mobile_web_views/sections/collection?id=22",
-      "content_type" : "collection"
-    },
-    {
-      "content_url" : "https://fave-staging-qa.app.fave.ninja/mobile_web_views/sections/thematic?id=26",
-      "content_type" : "thematic"
-    },
-    {
-      "content_url" : "https://fave-staging-qa.app.fave.ninja/mobile_web_views/sections/location_collection?id=34",
-      "content_type" : "location_collection"
-    }
-  ],
   "announcement" : {
     "title" : "Tentastic Sale!",
     "description" : "Up to 90% off sitewide",
@@ -38,21 +11,6 @@
       "name" : "Eat",
       "deeplink" : "fave://access.kfit.com/nearby?category=eat",
       "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/2423e2396cc8a220d99e976075c3973505b4d94f/store/e2855a51f2e7c4968e602243136a2297e3659a7bd0b90807db8d6fab2961/icon.png"
-    },
-    {
-      "name" : "Beauty",
-      "deeplink" : "fave://access.kfit.com/nearby?category=beauty",
-      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/617d12615be6f3455e599e29a195ccecdcf8954b/store/05d63768419371b5d4b11e9a07ae905fc3ef02707ef50beb7d1ec5ba42e1/icon.png"
-    },
-    {
-      "name" : "Shopping",
-      "deeplink" : "fave://access.kfit.com/nearby?category=retail",
-      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/50cc65220c8bd7843b48d669adad4823b44cea28/store/461f531462b693a73008ab2dee5790ab90e085d9869c5018f9679776aebc/icon.png"
-    },
-    {
-      "name" : "Travel",
-      "deeplink" : "fave://access.kfit.com/open-link-auth?url=https%3A%2F%2Faccess.kfit.com%2Fmobile_web_views%2Fcategory%3Fcategory_type%3Dtravel%26filter_header_id%3D7",
-      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/1b5644dcb678dc2a14625fb142ad7cd6a3d85b3b/store/ce6d1c6f2e55c2f87d77b67a71a145b36d13cb151485657d05cae5ca8564/icon.png"
     }
   ],
   "component_title" : "Places Open Now",
@@ -68,24 +26,6 @@
       "alert" : false,
       "name" : "FavePay",
       "deeplink" : "fave://access.kfit.com/fave-pay"
-    },
-    {
-      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/2db3c1f0ee1f7da251216677fdb61dac87602708/store/1193af1dc44fab73108cf76fc7edaf62466a082fe9a06ce6638b6c487c1e/icon.png",
-      "alert" : false,
-      "name" : "FaveDeals",
-      "deeplink" : "fave://access.kfit.com/fave-deals"
-    },
-    {
-      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/9750315b63bec8fd745af3ab0dc3eb631e6c3a0c/store/d775f5d018713b1fdd063e73a29ed20b5620d10adc2816fbe709505b4792/icon.png",
-      "alert" : false,
-      "name" : "Rewards",
-      "deeplink" : "fave://access.kfit.com/fave-rewards"
-    },
-    {
-      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/6f776b2e8719d1adf9e4221f08fd2f10dd202646/store/0ef2ce1f945fe21ea259e2e922a6ef59b389495fa6fdf1749382291d8c71/icon.png",
-      "alert" : false,
-      "name" : "Event",
-      "deeplink" : "fave://access.kfit.com/fave-events"
     }
   ],
   
@@ -130,7 +70,6 @@
       "title": "Charity",
             "deep_link": "1011"
     }
-  ],
-  "mini_game" : null,
-  }
+  ]
+}
 }
