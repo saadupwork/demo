@@ -1,6 +1,171 @@
-
 {
-  "fragments": [
+  "segment_title" : "Open For Delivery",
+  "banner" : {
+    "ratio" : {
+      "width" : 15,
+      "height" : 7
+    },
+    "contents" : [
+      {
+        "name" : "Banner 6",
+        "deeplink" : "https://www.youtube.com/",
+        "icon_url" : "https://s3-ap-southeast-1.amazonaws.com/staging.myfave.com/uploads/banners/994b9835-3a4b-4432-8c63-ba2d82a3867f.png"
+      }
+    ]
+  },
+  "sections" : [
+    {
+      "content_url" : "https://fave-staging-qa.app.fave.ninja/mobile_web_views/sections/collection?id=22",
+      "content_type" : "collection"
+    },
+    {
+      "content_url" : "https://fave-staging-qa.app.fave.ninja/mobile_web_views/sections/thematic?id=26",
+      "content_type" : "thematic"
+    },
+    {
+      "content_url" : "https://fave-staging-qa.app.fave.ninja/mobile_web_views/sections/location_collection?id=34",
+      "content_type" : "location_collection"
+    }
+  ],
+  "announcement" : {
+    "title" : "Tentastic Sale!",
+    "description" : "Up to 90% off sitewide",
+    "deeplink" : "fave://access.kfit.com/open-link?url=https%3A%2F%2Flp.myfave.com%2F10.10-sale",
+    "button_text" : "Learn more"
+  },
+  "segments" : [
+    {
+      "name" : "Eat",
+      "deeplink" : "fave://access.kfit.com/nearby?category=eat",
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/2423e2396cc8a220d99e976075c3973505b4d94f/store/e2855a51f2e7c4968e602243136a2297e3659a7bd0b90807db8d6fab2961/icon.png"
+    },
+    {
+      "name" : "Beauty",
+      "deeplink" : "fave://access.kfit.com/nearby?category=beauty",
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/617d12615be6f3455e599e29a195ccecdcf8954b/store/05d63768419371b5d4b11e9a07ae905fc3ef02707ef50beb7d1ec5ba42e1/icon.png"
+    },
+    {
+      "name" : "Shopping",
+      "deeplink" : "fave://access.kfit.com/nearby?category=retail",
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/50cc65220c8bd7843b48d669adad4823b44cea28/store/461f531462b693a73008ab2dee5790ab90e085d9869c5018f9679776aebc/icon.png"
+    },
+    {
+      "name" : "Travel",
+      "deeplink" : "fave://access.kfit.com/open-link-auth?url=https%3A%2F%2Faccess.kfit.com%2Fmobile_web_views%2Fcategory%3Fcategory_type%3Dtravel%26filter_header_id%3D7",
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/1b5644dcb678dc2a14625fb142ad7cd6a3d85b3b/store/ce6d1c6f2e55c2f87d77b67a71a145b36d13cb151485657d05cae5ca8564/icon.png"
+    },
+    {
+      "name" : "Massage",
+      "deeplink" : "fave://access.kfit.com/nearby?category=retail",
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/7874a578bc8fea8c0f91c012bee1835807686608/store/ec9e8fb8ad130defb01be622425036298035c04498d4407e03dea52424e4/icon.png"
+    },
+    {
+      "name" : "No 6",
+      "deeplink" : "fave://access.kfit.com/open-link-auth?url=https%3A%2F%2Faccess.kfit.com%2Fmobile_web_views%2Fcategory%3Fcategory_type%3Dtravel%26filter_header_id%3D7",
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/1848f6f06e978c5c1e14cd243e5393f8cff57cc8/store/da5c5a807a48db763f22205ce6e8926c95b522c64be1b4803ba26e2d1fcf/icon.png"
+    },
+    {
+      "name" : "No 7",
+      "deeplink" : "fave://access.kfit.com/open-link-auth?url=https%3A%2F%2Faccess.kfit.com%2Fmobile_web_views%2Fcategory%3Fcategory_type%3Dtravel%26filter_header_id%3D7",
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/32b8a1d1508d79706eb5d181ed29c577b6985d95/store/58d0815252b2fbc62c4671351c57eaaeea400bc7686890dda10f3a26b8c1/icon.png"
+    },
+    {
+      "name" : "No 8",
+      "deeplink" : "fave://access.kfit.com/open-link-auth?url=https%3A%2F%2Faccess.kfit.com%2Fmobile_web_views%2Fcategory%3Fcategory_type%3Dtravel%26filter_header_id%3D7",
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/35c12e57395068093499dc62c3e1d1631858f91c/store/5200297042fbddd9b2f7d621995da9d42fdef65199811cbeb14c10ae38d6/icon.png"
+    },
+    {
+      "name" : "Test",
+      "deeplink" : "fave://access.kfit.com/nearby?category=eat",
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/83648c4492a04c65886d82ab367de893f375542f/store/fb84f1c7fe6796c9f0b08c8304fd4b171aadd6ca226c9b6049896af88302/icon.png"
+    },
+    {
+      "name" : "NO 9",
+      "deeplink" : "fave://access.kfit.com/open-link-auth?url=https%3A%2F%2Faccess.kfit.com%2Fmobile_web_views%2Fcategory%3Fcategory_type%3Dtravel%26filter_header_id%3D7",
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/26b141d9d5b832c3524be8306a4fd1af5e6ea5a4/store/1ba43b3bf7af6cf85de7d88ead6a861ea9abead6098360449c91e381df15/icon.png"
+    },
+    {
+      "name" : "Foods",
+      "deeplink" : "fave://access.kfit.com/nearby?category=eat",
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/f3b91dcb83b5b15de6add9a4672767fad1cac48c/store/6c795a807a14e42a2a04ebba0e1c82a2ea8d6738044a869b988d3d42de8a/icon.png"
+    },
+    {
+      "name" : "CF test 2",
+      "deeplink" : "fave://access.kfit.com/nearby?category=eat\t",
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/4ef6a7fe8fb475c441ccd083073882578c16c541/store/cf91c57d83d9acce93b9f927b340ac8b8a2a478002f50ff8c65e614663fd/icon.png"
+    }
+  ],
+  "component_title" : "Places Open Now",
+  "components" : [
+    {
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/8aa141d1792af441843b70c7d9af67af79cc4823/store/9d200f3002b6bc0b9f643c1b6d24f3d1e1f0f586c08c6cdcdd11f0d5a165/icon.png",
+      "alert" : false,
+      "name" : "eCards",
+      "deeplink" : "fave://access.kfit.com/e-cards"
+    },
+    {
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/bfaab256e617c303ba9efaf316f78cc60b3163be/store/e5ea912701b2ef73dd7be32f19e3c2c78bb7bc419c63745bdc79c51949ff/icon.png",
+      "alert" : false,
+      "name" : "FavePay",
+      "deeplink" : "fave://access.kfit.com/fave-pay"
+    },
+    {
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/2db3c1f0ee1f7da251216677fdb61dac87602708/store/1193af1dc44fab73108cf76fc7edaf62466a082fe9a06ce6638b6c487c1e/icon.png",
+      "alert" : false,
+      "name" : "FaveDeals",
+      "deeplink" : "fave://access.kfit.com/fave-deals"
+    },
+    {
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/9750315b63bec8fd745af3ab0dc3eb631e6c3a0c/store/d775f5d018713b1fdd063e73a29ed20b5620d10adc2816fbe709505b4792/icon.png",
+      "alert" : false,
+      "name" : "Rewards",
+      "deeplink" : "fave://access.kfit.com/fave-rewards"
+    },
+    {
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/6f776b2e8719d1adf9e4221f08fd2f10dd202646/store/0ef2ce1f945fe21ea259e2e922a6ef59b389495fa6fdf1749382291d8c71/icon.png",
+      "alert" : false,
+      "name" : "Event",
+      "deeplink" : "fave://access.kfit.com/fave-events"
+    },
+    {
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/3ff14b89723fa8eba3f62e634f9ccd5f889038bf/store/9d1b16da4fac07aa2ce6c4d2f10606e4a39e3e448a58f28d8ff79ac57597/icon.png",
+      "alert" : false,
+      "name" : "Takeaway",
+      "deeplink" : "fave://access.kfit.com/fave-takeaway"
+    },
+    {
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/7a831e3f04ae1c0dfaf8e686e2b42178c8d82651/store/a1549456628d9512aa12d3aa965d9887c6c7c5ea34247208db809e383f98/icon.png",
+      "alert" : false,
+      "name" : "Food & Drinks",
+      "deeplink" : "https://myfave.onelink.me/4252510588?af_dp=fave://access.kfit.com/open-link-auth?url=https%3A%2F%2Ffave-staging-qa.app.fave.ninja%2Fmobile_web_views%2Fpay%2Fcollections%3Fid%3D51&af_web_dp=https://myfave.com/download"
+    },
+    {
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/b452ca3d3f2469a6ae52d3494c945ece333c1177/store/92b3b3537f21e516b168e399445a3f9f94683f9319ea3a393c0f3c5ebd91/icon.png",
+      "alert" : false,
+      "name" : "FavePay+",
+      "deeplink" : "fave://access.kfit.com/fave-pay-plus"
+    },
+    {
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/75040ad06aff2a8b9d8a5b5d2481648d22ecb328/store/01dc98cb51da92f69863fa5af79087fc7e6a813276bc31f38c8ce82f9dd7/icon.png",
+      "alert" : false,
+      "name" : "FP Collection",
+      "deeplink" : "https://myfave.onelink.me/4252510588?af_dp=fave://access.kfit.com/open-link-auth?url=https%3A%2F%2Ffave-staging-qa.app.fave.ninja%2Fmobile_web_views%2Fpay%2Fcollections%3Fid%3D26&af_web_dp=https://myfave.com/download"
+    },
+    {
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/5d8891c292eaf3f28ab8bc4a58f0a568b541627b/store/f8fa85340b27543d8efce7a2babbb383c21aec336193044acef464cdeb61/icon.png",
+      "alert" : false,
+      "name" : "Shopping",
+      "deeplink" : "fave://access.kfit.com/open-link-auth?url=https%3A%2F%2Faccess.kfit.com%2Fmobile_web_views%2Fsub_category%3Fcategory_id%3D121%26category_type%3Deat%26filter_header_id%3D1"
+    },
+    {
+      "icon_url" : "https://fave-staging-qa.app.fave.ninja/attachments/9e07fa1a9d6c408d3797bce6e60f5c4a48c88a91/store/cf89c6da28592e0a0df62bb3ba2e2453b0d7a4a1cd8772767f93486e46fd/icon.png",
+      "alert" : false,
+      "name" : "Amil Test",
+      "deeplink" : "fave://access.kfit.com/fave-save?company_id=692&outlet_id=894&amount=100.00"
+    }
+  ],
+  
+   "fragments": [
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
       "title": "Eat",
@@ -51,5 +216,35 @@
       "title": "Charity",
             "deep_link": "1011"
     }
-  ]
+  ],
+  "mini_game" : null,
+  "profile" : {
+    "cashback_expiry_label" : null,
+    "grabpay_promotion_enabled" : true,
+    "payment_method_prompt" : null,
+    "contents" : [
+      {
+        "value" : "RM1.11",
+        "icon_url" : null,
+        "profile_type" : "cashback",
+        "name" : "My Cashback",
+        "deeplink" : "fave://access.kfit.com/memberships"
+      },
+      {
+        "value" : "x 0",
+        "icon_url" : "https://fave-staging-qa.app.fave.ninja/assets/fave/fave-home/components/ic_voucher-0c0da46ac87efd7154c17822b8c472cb839b95d31890849d054b40efae54131a.png",
+        "profile_type" : "voucher",
+        "name" : "My Vouchers",
+        "deeplink" : "fave://access.kfit.com/me-tab"
+      },
+      {
+        "value" : "1111",
+        "icon_url" : "https://fave-staging-qa.app.fave.ninja/assets/payment_engine/method_icons/card.visa-1c510ee75bea7e35df6ba42446f56226c42cadd63b1ded09f50db050aa8df69f.png",
+        "profile_type" : "payment_method",
+        "name" : "Pay With",
+        "deeplink" : "fave://access.kfit.com/card-payment?context=metab"
+      }
+    ],
+    "payment_method_expiry_label" : null
+  }
 }
