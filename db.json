@@ -1,5 +1,4 @@
 {
-  "component_title": "Places Open Now",
    "fragments": [
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
@@ -28,8 +27,8 @@
     },
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Retail",
-            "deep_link": "1011"
+      "title": "More",
+            "deep_link": "fave://access.kfit.com/explore"
     },
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
@@ -39,7 +38,7 @@
     {
       "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
       "title": "Charity",
-            "deep_link": "1011"
+      "deep_link": "1011"
     }
   ]
 }
