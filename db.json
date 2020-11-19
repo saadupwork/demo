@@ -49,10 +49,16 @@
     {
         "title": "Redeemable",
         "key": "redeemable",
-        "data": [{
+        "data": [
+          {
+                "value": "any_time",
+                "display_label": "Any Time"
+          },
+          {
                 "value": "now",
                 "display_label": "Now"
-        }]
+          }
+        ]
     },
     {
         "title": "Distance",
