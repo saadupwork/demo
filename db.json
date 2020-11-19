@@ -1,44 +1,91 @@
+
 {
-   "fragments": [
-    {
-      "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Eat",
-      "deep_link": "1011"
+  "sort_by": ["Trending","Nearby","Newest","Top Rated"],
+  "filters": [
+     {
+         "title": "Rating",
+         "key": "rating",
+         "data":[
+            {
+               "value": "1",
+               "display_label": "1"
+            },
+            {
+               "value": "2",
+               "display_label": "2"
+            },
+            {
+               "value": "3",
+               "display_label": "3"
+            },
+            {
+               "value": "4",
+               "display_label": "4"
+            }
+         ]
+     },
+     {
+        "title": "Price Range", 
+        "key": "price_range",
+        "data": [
+           {
+                "value": "1",
+                "display_label": "RM10"
+           },
+           {
+                "value": "2",
+                "display_label": "RM20"
+           },
+           {
+                "value": "3",
+                "display_label": "RM30"
+           },
+           {
+                "value": "4",
+                "display_label": "RM99+"
+           }
+        ]
     },
     {
-      "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Beauty",
-      "deep_link": "1011"
+        "title": "Redeemable",
+        "key": "redeemable",
+        "data": [{
+                "value": "now",
+                "display_label": "Now"
+        }]
     },
     {
-      "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Massage",
-            "deep_link": "1011"
+        "title": "Distance",
+        "key": "distance",
+        "data": [
+           {
+                "value": "1",
+                "display_label": "1km"
+           },
+           {
+                "value": "2",
+                "display_label": "3km"
+           },
+           {
+                "value": "3",
+                "display_label": "6km"
+           },
+           {
+                "value": "4",
+                "display_label": "10km+"
+           }
+        ]
     },
     {
-      "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "eCards",
-            "deep_link": "1011"
-    },
-    {
-      "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Activities",
-            "deep_link": "1011"
-    },
-    {
-      "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "More",
-            "deep_link": "fave://access.kfit.com/explore"
-    },
-    {
-      "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Service",
-            "deep_link": "1011"
-    },
-    {
-      "icon": "https://i.ibb.co/HXG4Nb8/Icon.png",
-      "title": "Charity",
-      "deep_link": "1011"
+        "title": "Dietry preference",
+        "key": "dietry_preference",
+        "data": [{
+                "value": "halal",
+                "display_label": "Halal"
+        }, {
+                "value": "Vegetarian",
+                "display_label": "vegetarian"
+        }]
     }
   ]
 }
