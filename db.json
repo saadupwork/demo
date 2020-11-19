@@ -85,13 +85,20 @@
     {
         "title": "Dietry preference",
         "key": "dietry_preference",
-        "data": [{
+        "data": [
+            {
                 "value": "halal",
                 "display_label": "Halal"
-        }, {
+            },
+            {
                 "value": "Vegetarian",
-                "display_label": "vegetarian"
-        }]
+                "display_label": "Vegetarian"
+            },
+            {
+                "value": "Pork_Free",
+                "display_label": "Pork Free"
+            }
+       ]
     }
   ]
 }
