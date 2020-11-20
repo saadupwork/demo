@@ -1,6 +1,26 @@
 
 {
-  "sort_by": ["Trending","Nearby","Newest","Top Rated"],
+  "sort_by": [{
+		"title": "Sort By",
+		"key": "sort_by",
+		"data": [{
+				"value": "trending",
+				"display_label": "Trending"
+			},
+			{
+				"value": "nearby",
+				"display_label": "Nearby"
+			},
+			{
+				"value": "newest",
+				"display_label": "Newest"
+			},
+			{
+				"value": "top_rated",
+				"display_label": "Top Rated"
+			}
+		]
+	}],
   "filters": [
      {
          "title": "Rating",
