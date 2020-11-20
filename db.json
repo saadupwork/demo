@@ -1,6 +1,6 @@
 
 {
-  "sort_by": [{
+  "sort_by": {
 		"title": "Sort By",
 		"key": "sort_by",
 		"data": [{
@@ -20,7 +20,7 @@
 				"display_label": "Top Rated"
 			}
 		]
-	}],
+	},
   "filters": [
      {
          "title": "Rating",
