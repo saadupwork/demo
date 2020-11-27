@@ -4,19 +4,19 @@
 		"title": "Sort By",
 		"key": "sort_by",
 		"data": [{
-				"value": "trending",
+				"key": "trending",
 				"display_label": "Trending"
 			},
 			{
-				"value": "nearby",
+				"key": "nearby",
 				"display_label": "Nearby"
 			},
 			{
-				"value": "newest",
+				"key": "newest",
 				"display_label": "Newest"
 			},
 			{
-				"value": "top_rated",
+				"key": "top_rated",
 				"display_label": "Top Rated"
 			}
 		]
@@ -27,23 +27,23 @@
          "key": "rating",
          "data":[
             {
-               "value": "1",
+               "key": "1",
                "display_label": "1"
             },
             {
-               "value": "2",
+               "key": "2",
                "display_label": "2"
             },
             {
-               "value": "3",
+               "key": "3",
                "display_label": "3"
             },
             {
-               "value": "4",
+               "key": "4",
                "display_label": "4"
             },
             {
-               "value": "5",
+               "key": "5",
                "display_label": "5"
             }
          ]
@@ -53,19 +53,19 @@
         "key": "price_range",
         "data": [
            {
-                "value": "1",
+                "key": "1",
                 "display_label": "RM10"
            },
            {
-                "value": "2",
+                "key": "2",
                 "display_label": "RM20"
            },
            {
-                "value": "3",
+                "key": "3",
                 "display_label": "RM30"
            },
            {
-                "value": "4",
+                "key": "4",
                 "display_label": "RM99+"
            }
         ]
@@ -75,11 +75,11 @@
         "key": "redeemable",
         "data": [
           {
-                "value": "any_time",
+                "key": "any_time",
                 "display_label": "Any Time"
           },
           {
-                "value": "now",
+                "key": "now",
                 "display_label": "Now"
           }
         ]
@@ -89,19 +89,19 @@
         "key": "distance",
         "data": [
            {
-                "value": "1",
+                "key": "1",
                 "display_label": "1km"
            },
            {
-                "value": "2",
+                "key": "2",
                 "display_label": "3km"
            },
            {
-                "value": "3",
+                "key": "3",
                 "display_label": "6km"
            },
            {
-                "value": "4",
+                "key": "4",
                 "display_label": "10km+"
            }
         ]
@@ -113,10 +113,10 @@
         "title": "Dietry preference",
         "key": "dietry_preference",
         "data": [{
-                "value": "halal",
+                "key": "halal",
                 "display_label": "Halal"
         }, {
-                "value": "Vegetarian",
+                "key": "Vegetarian",
                 "display_label": "vegetarian"
         }]
     },
@@ -124,10 +124,10 @@
         "title": "Restaurant Type",
         "key": "eat_estabishment",
         "data": [{
-                "value": "cafe",
+                "key": "cafe",
                 "display_label": "Cafe"
         }, {
-                "value": "bakery",
+                "key": "bakery",
                 "display_label": "Bakery"
         }]
     }
