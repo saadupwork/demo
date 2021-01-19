@@ -1,135 +1,29 @@
-
-{
-  "sort_by": {
-		"title": "Sort By",
-		"key": "sort_by",
-		"data": [{
-				"key": "trending",
-				"display_label": "Trending"
-			},
-			{
-				"key": "nearby",
-				"display_label": "Nearby"
-			},
-			{
-				"key": "newest",
-				"display_label": "Newest"
-			},
-			{
-				"key": "top_rated",
-				"display_label": "Top Rated"
-			}
-		]
+[{
+		"title": "1. Pick your favourite eCard",
+		"description": "Buy an eCard or gift it to a friend.",
+		"images": [],
+		"details": []
 	},
-  "filters": [
-     {
-         "title": "Rating",
-         "key": "rating",
-         "data":[
-            {
-               "key": "1",
-               "display_label": "1"
-            },
-            {
-               "key": "2",
-               "display_label": "2"
-            },
-            {
-               "key": "3",
-               "display_label": "3"
-            },
-            {
-               "key": "4",
-               "display_label": "4"
-            },
-            {
-               "key": "5",
-               "display_label": "5"
-            }
-         ]
-     },
-     {
-        "title": "Price Range", 
-        "key": "price_range",
-        "data": [
-           {
-                "key": "1",
-                "display_label": "RM10"
-           },
-           {
-                "key": "2",
-                "display_label": "RM20"
-           },
-           {
-                "key": "3",
-                "display_label": "RM30"
-           },
-           {
-                "key": "4",
-                "display_label": "RM99+"
-           }
-        ]
-    },
-    {
-        "title": "Redeemable",
-        "key": "redeemable",
-        "data": [
-          {
-                "key": "any_time",
-                "display_label": "Any Time"
-          },
-          {
-                "key": "now",
-                "display_label": "Now"
-          }
-        ]
-    },
-    {
-        "title": "Distance",
-        "key": "distance",
-        "data": [
-           {
-                "key": "1",
-                "display_label": "1km"
-           },
-           {
-                "key": "2",
-                "display_label": "3km"
-           },
-           {
-                "key": "3",
-                "display_label": "6km"
-           },
-           {
-                "key": "4",
-                "display_label": "10km+"
-           }
-        ]
-    }
-  ],
-
-"label_attributes": [
-    {
-        "title": "Dietry preference",
-        "key": "dietry_preference",
-        "data": [{
-                "key": "halal",
-                "display_label": "Halal"
-        }, {
-                "key": "Vegetarian",
-                "display_label": "vegetarian"
-        }]
-    },
-        {
-        "title": "Restaurant Type",
-        "key": "eat_estabishment",
-        "data": [{
-                "key": "cafe",
-                "display_label": "Cafe"
-        }, {
-                "key": "bakery",
-                "display_label": "Bakery"
-        }]
-    }
-  ]
-}
+	{
+		"title": "2. The eCard cashback is instantly added into your Fave account",
+		"description": "Tap on 'My Cashback' on the homepage to see the eCard cashback balance and validity period.",
+		"images": [],
+		"details": []
+	},
+	{
+		"title": "3. Redeem cashback simply with FavePay",
+		"description": "At the partner's outlet, scan the FavePay QR as usual. Upon payment, your cashback balance will be deducted automatically.",
+		"images": ["https://images.milledcdn.com/2020-06-08/kZWyOf-XBzYxdg3P/l0e6tTmQW8D5.png"],
+		"details": []
+	},
+	{
+		"title": "4. Pick your favourite online store",
+		"description": "Buy an exciting food and other services.",
+		"images": [],
+		"details": [{
+			"title": "In-store",
+			"description": "At the outlet, inform the staff before you swipe to redeem. Then, show the redemption code to the staff.",
+			"images": ["https://jocomgrocery.files.wordpress.com/2020/10/wordpress-1.png"]
+		}]
+	}
+]
