@@ -3,5 +3,27 @@
 		"description": "Buy an eCard or gift it to a friend.",
 		"images": [],
 		"details": []
+	},
+	{
+		"title": "2. The eCard cashback is instantly added into your Fave account",
+		"description": "Tap on 'My Cashback' on the homepage to see the eCard cashback balance and validity period.",
+		"images": [],
+		"details": []
+	},
+	{
+		"title": "3. Redeem cashback simply with FavePay",
+		"description": "At the partner's outlet, scan the FavePay QR as usual. Upon payment, your cashback balance will be deducted automatically.",
+		"images": ["https://images.milledcdn.com/2020-06-08/kZWyOf-XBzYxdg3P/l0e6tTmQW8D5.png"],
+		"details": []
+	},
+	{
+		"title": "4. Pick your favourite online store",
+		"description": "Buy an exciting food and other services.",
+		"images": [],
+		"details": [{
+			"title": "In-store",
+			"description": "At the outlet, inform the staff before you swipe to redeem. Then, show the redemption code to the staff.",
+			"images": ["https://jocomgrocery.files.wordpress.com/2020/10/wordpress-1.png"]
+		}]
 	}
 ]
