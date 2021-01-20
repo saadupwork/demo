@@ -21,11 +21,19 @@
 		"title": "4. Pick your favourite online store",
 		"description": "Buy an exciting food and other services.",
 		"images": [],
-		"details": [{
-			"title": "In-store",
-			"description": "At the outlet, inform the staff before you swipe to redeem. Then, show the redemption code to the staff.",
-			"images": ["https://jocomgrocery.files.wordpress.com/2020/10/wordpress-1.png"]
-		}]
+		"details": [
+			{
+				"title": "In-store",
+				"description": "At the outlet, inform the staff before you swipe to redeem. Then, show the redemption code to the staff.",
+				"images": ["https://jocomgrocery.files.wordpress.com/2020/10/wordpress-1.png"]
+			},
+			{
+				"title": "Online",
+				"description": "At the outlet, inform the staff before you swipe to redeem. Then, show the redemption code to the staff.",
+				"images": ["https://jocomgrocery.files.wordpress.com/2020/10/wordpress-1.png"]
+			}
+			   
+	    	 ]
 	}
 ]
 
