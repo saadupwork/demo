@@ -11,19 +11,15 @@
 			"url": "https://qa-staging.platform.fave.ninja/share/2YQG_eVPgRyXXw7077hh",
 			"description": "Hey, I thought you would like this eCard. Check it out:  "
 		},
-		"tags": ["Asian", "Kiosk"],
-		"establishment_list": ["Asian", "Kiosk"],
-		"cuisine_list": ["Asian", "Kiosk"],
-		"food_list": ["Asian", "Kiosk"],
 		"labels": [{
 			"name": "Type",
-			"value": ["Asian", "Kiosk"]
+			"value": ["Cafe"]
 		}, {
 			"name": "Cuisine",
-			"value": ["Asian", "Kiosk"]
+			"value": ["Western"]
 		}, {
 			"name": "Food",
-			"value": ["Asian", "Kiosk"]
+			"value": ["Pizza", "Bakery"]
 		}],
 		"total_outlets": 7,
 		"description": "Donec ullamcorper nulla non metus auctor fringilla. Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida faucibuwe Itiea. Donec id elit non mi porta gravida faucibuwe. Donec ullamcorper nulla non metus auctor fringilla. Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida faucibuwe Itiea. Donec id elit non mi porta gravida faucibuwe. ",
