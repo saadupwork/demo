@@ -11,6 +11,7 @@
 			"url": "https://qa-staging.platform.fave.ninja/share/2YQG_eVPgRyXXw7077hh",
 			"description": "Hey, I thought you would like this eCard. Check it out:  "
 		},
+		"tags": ["Cafe", "Western", "Asian"],
 		"labels": [{
 			"name": "Type",
 			"value": ["Cafe"]
