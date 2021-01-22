@@ -73,7 +73,7 @@
 				"sold_count": 2,
 				"validity": "60 days",
 				"bonus_desc": "Bonus RM20",
-				"most_popular": false
+				"most_popular": true
 			}
 		]
 	}
