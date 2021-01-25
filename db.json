@@ -1,81 +1,41 @@
 {
-	"company": {
-		"featured_image": "https://www.sushiq.com.my/images/outlet/2015072269306.jpeg",
-		"gallery_images": [
-			"https://assets.grab.com/wp-content/uploads/sites/4/2019/04/16111939/cropped-sushi-restaurant-kl.jpg",
-			"https://i2-prod.cambridge-news.co.uk/incoming/article15396017.ece/ALTERNATES/s615/1_GettyImages-826625258.jpg"
-		],
-		"purchase_count": 15,
-		"fine_print": " <head> <link rel='stylesheet' type='text/css' href='https://fave-staging-columbus-2.app.fave.ninja/assets/fave/fine_print-403f210f3af98c2dd46db9af3318ae9324922958b6a75796adb8bcbc14e1db37.css' > </head> <body> <ul> <li>Validity days: Monday - Sunday: 10am - 11pm. Valid on public holidays.</li> <li>No limit to number of vouchers per table per receipt.</li> </ul>  <ul> <li>Reservation not required.</li> <li>Call: +603-7722 2237 for more enquiries.</li></ul> </body>",
-		"share": {
-			"url": "https://qa-staging.platform.fave.ninja/share/2YQG_eVPgRyXXw7077hh",
-			"description": "Hey, I thought you would like this eCard. Check it out:  "
-		},
-		"tags": ["Cafe", "Western", "Asian"],
-		"labels": [{
-			"name": "Type",
-			"value": ["Cafe"]
-		}, {
-			"name": "Cuisine",
-			"value": ["Western"]
-		}, {
-			"name": "Food",
-			"value": ["Pizza", "Bakery"]
-		}],
-		"total_outlets": 7,
-		"description": "Donec ullamcorper nulla non metus auctor fringilla. Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida faucibuwe Itiea. Donec id elit non mi porta gravida faucibuwe. Donec ullamcorper nulla non metus auctor fringilla. Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida faucibuwe Itiea. Donec id elit non mi porta gravida faucibuwe. ",
-
-		"e_cards": [{
-				"id": 23,
-				"company_id": 1000,
-				"company_logo": "logo.jpg",
-				"background_color": "#036635",
-				"company_name": "Starbucks",
-				"primary_color": "#036635",
-				"secondary_color": "#036635",
-				"tertiary_color": "#036635",
-				"payable_amount": "RM30",
-				"total_value": "RM40",
-				"discount_percentage": 25,
-				"sold_count": 2,
-				"validity": "60 days",
-				"bonus_desc": "Bonus RM15",
-				"most_popular": false
+	"how_it_works": [{
+		"title": "1. Pick your favourite eCard",
+		"description": "Buy an eCard or gift it to a friend.",
+		"images": [],
+		"details": []
+	},
+	{
+		"title": "2. The eCard cashback is instantly added into your Fave account",
+		"description": "Tap on 'My Cashback' on the homepage to see the eCard cashback balance and validity period.",
+		"images": [],
+		"details": []
+	},
+	{
+		"title": "3. Redeem cashback simply with FavePay",
+		"description": "At the partner's outlet, scan the FavePay QR as usual. Upon payment, your cashback balance will be deducted automatically.",
+		"images": ["https://blog-fave.s3.ap-southeast-1.amazonaws.com/malaysia/wp-content/uploads/2017/12/11180409/blog.gif"],
+		"details": []
+	},
+	{
+		"title": "4. Pick your favourite online store",
+		"description": "Buy an exciting food and other services.",
+		"images": [],
+		"details": [
+			{
+				"title": "In-store",
+				"description": "At the outlet, inform the staff before you swipe to redeem. Then, show the redemption code to the staff.",
+				"images": ["https://jocomgrocery.files.wordpress.com/2020/10/wordpress-1.png"]
 			},
 			{
-				"id": 24,
-				"company_id": 1000,
-				"company_logo": "logo.jpg",
-				"background_color": "#036635",
-				"company_name": "Starbucks",
-				"primary_color": "#036635",
-				"secondary_color": "#036635",
-				"tertiary_color": "#036635",
-				"payable_amount": "RM100",
-				"total_value": "RM150",
-				"discount_percentage": 25,
-				"sold_count": 2,
-				"validity": "60 days",
-				"bonus_desc": "Bonus RM50",
-				"most_popular": false
-			},
-			{
-				"id": 25,
-				"company_id": 1000,
-				"company_logo": "logo.jpg",
-				"background_color": "#036635",
-				"company_name": "Starbucks",
-				"primary_color": "#036635",
-				"secondary_color": "#036635",
-				"tertiary_color": "#036635",
-				"payable_amount": "RM100",
-				"total_value": "RM120",
-				"discount_percentage": 20,
-				"sold_count": 2,
-				"validity": "60 days",
-				"bonus_desc": "Bonus RM20",
-				"most_popular": true
+				"title": "Online",
+				"description": "At the outlet, inform the staff before you swipe to redeem. Then, show the redemption code to the staff.",
+				"images": ["https://jocomgrocery.files.wordpress.com/2020/10/wordpress-1.png"]
 			}
-		]
+			   
+	    	 ]
 	}
+]
+
+
 }
